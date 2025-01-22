@@ -1,59 +1,52 @@
-# 👋 Hi, I'm Nelluri Lokesh
+<h1 align="center">Hi 👋, I'm Nelluri Lokesh</h1>
+<h3 align="center">A passionate Software Engineer and Data Scientist</h3>
 
-📧 **Email:** anjilokesh.nelluri@gmail.com  
-📞 **Phone:** +91 9618260595  
-🌐 **Portfolio:** [My Portfolio](https://nellurilokesh.github.io/My_Portfolio/)  
-💼 **LinkedIn:** [Lokesh Nelluri](https://linkedin.com/in/lokesh-nelluri-2376a4254)  
-📂 **GitHub:** [NelluriLokesh](https://github.com/NelluriLokesh)  
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nellurilokesh" alt="nellurilokesh" />
+  </a> 
+</p>
 
----
+- 👨‍💻 All of my projects are available at [https://nellurilokesh.github.io/My_Portfolio/](https://nellurilokesh.github.io/My_Portfolio/)
 
-## 🚀 About Me
-Passionate Computer Science student with a strong foundation in programming, cloud technologies, and software development. I specialize in building innovative solutions and creating robust applications. My goal is to solve complex challenges and contribute to impactful projects in collaborative environments.
+- 📫 How to reach me: **anjilokesh.nelluri@gmail.com**
 
----
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1-EwlWb7JM7UMLM9cXnzMQUuRgMOcQUEf/view?usp=sharing)
 
-## 🛠️ Skills
+- ⚡ Fun fact: **Why do programmers prefer dark mode?... Because light attracts bugs!**
 
-### **Programming & Development**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Full Stack Development](https://img.shields.io/badge/Full_Stack-EC4A4C?style=for-the-badge&logo=react&logoColor=white)  
-![Backend Development](https://img.shields.io/badge/Backend-4B8BBE?style=for-the-badge&logo=flask&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/lokesh-nelluri-2376a4254" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+</p>
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+</p>
 
-### **Data Analysis & Visualization**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 💻 Portfolio Highlights
-Explore my **[portfolio](https://nellurilokesh.github.io/My_Portfolio/)** to see projects showcasing my expertise in:  
-- **Full Stack Development**: Seamless front-end and back-end integration.  
-- **AWS Solutions**: Building serverless web applications.  
-- **Machine Learning**: Implementing ML models for data-driven insights.  
-- **Interactive Dashboards**: Utilizing Power BI and MySQL for impactful visualizations.  
-- **Blockchain Projects**: Experimenting with smart contracts and decentralized apps.
-
----
-
-## 🏆 Achievements
-- **Microsoft Learn:** Earned 198 Badges and 39 Trophies  
-- **Salesforce:** Earned 49 Badges, 71,925 Points, and 5 Trails  
-- **HackerRank:** 5★ in Python and SQL  
-- Completed various certification programs on AWS, Machine Learning, and Data Science.  
-- Active member of the Data Analytics Club and participant in international workshops.
-
----
-
-## 🔗 Verified Achievements
-- **Credly:** [View my achievements](https://www.credly.com/users/lokesh-nelluri)
-
----
-
-Thanks for stopping by! Feel free to connect, explore my work, or collaborate on exciting projects! 🚀
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nellurilokesh&show_icons=true&locale=en&layout=compact" alt="nellurilokesh" />
+</p>
