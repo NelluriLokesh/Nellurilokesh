@@ -11,6 +11,20 @@ I am a passionate Software Engineer and Data Scientist, exploring back-end devel
 ## ⚡ Fun Fact:
 Why do programmers prefer dark mode? **Because light attracts bugs.**
 
+---
+
+## Experience
+
+### **Cloud Infrastructure Intern: EC, VPC, and Security Management**  
+**Freelance Cloud Infrastructure Setup**  
+**Duration:** Sep 2024 - Nov 2024  
+**Mode:** Remote  
+- Provided AWS cloud services to a client, setting up **EC2 instances**, configuring **VPCs**, creating subnets, and managing security groups.  
+- Designed and implemented a scalable and secure cloud infrastructure customized to meet the client’s specific needs.  
+- Ensured optimal performance by fine-tuning configurations and applying best practices for security.  
+
+---
+
 ## 🧰 Technologies & Tools:
 ### Programming:
 <p align="left">
@@ -87,57 +101,38 @@ Why do programmers prefer dark mode? **Because light attracts bugs.**
   </a>
 </p>
 
+---
 
-## 📊 GitHub Stats:
-![Nelluri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nellurilokesh&show_icons=true&count_private=true&hide=prs)
 
 ## 🌱 Projects:
 
-Here are some of the key projects I have worked on:
-
 ### **[Serverless Web Application and AWS Infrastructure Optimization](https://docs.google.com/presentation/d/1YergW0RjbYvpq5k3pjV3cq44kB0kmIuD/edit?usp=sharing&ouid=113444432130316028569&rtpof=true&sd=true)**
-**Technologies**: AWS (EC2, S3, IAM, CloudWatch), Lambda, API Gateway, DynamoDB  
-- Built a serverless web application using AWS Lambda, API Gateway, S3, and DynamoDB, optimizing infrastructure with EC2 and IAM for efficiency and security.  
-- Monitored performance with CloudWatch and presented the project to an AWS expert for feedback.
+- **Technologies**: AWS (EC2, S3, IAM, CloudWatch), Lambda, API Gateway, DynamoDB  
+- Built a serverless web application and optimized cloud infrastructure for security and performance.
 
 ### **[SpeakSmart: Voice-Activated Personal Assistant](https://github.com/NelluriLokesh/Voice-Activated-Personal-Assistant)**
-**Technologies**: Python, PyAudio, Pyttsx3  
-- Created a Python-based voice assistant using PyAudio and Pyttsx3, capable of tasks like web browsing, time management, running apps, and providing weather updates, with interactive voice command support.
-
-### **[Uncovering Insights Across Different Datasets](https://github.com/NelluriLokesh/Data_Analysis/tree/main/Data%20Analysis)**
-**Technologies**: Python, numpy, Pandas, re  
-**Visualization**: seaborn, matplotlib  
-- Explored and analyzed diverse datasets to uncover valuable insights and patterns, providing data-driven solutions.
+- **Technologies**: Python, PyAudio, Pyttsx3  
+- Created a Python-based voice assistant capable of tasks like browsing, time management, and weather updates.
 
 ### **[Amazon Product and Sales Data Analysis Dashboard](https://app.powerbi.com/groups/me/reports/1812e931-18bf-4a31-8ed9-9a459f22bf6e/eaea5ab5d60a60c28d07?ctid=377383c2-3be0-4e01-b2c8-8526d5e58adb&experience=power-bi)**
-**Technologies**: Power BI, MySQL  
-- Created an interactive dashboard to analyze sales and product data, identifying key trends and business insights from 160K records.
+- **Technologies**: Power BI, MySQL  
+- Designed an interactive dashboard to uncover business insights from 160K records.
 
-### **[Integrated Data Analysis with Multitask Machine Learning](https://github.com/NelluriLokesh/Machine_Learning_alg)**
-**Technologies**: Python, re, Pandas, scikit-learn  
-- Developed a machine learning project covering regression, classification, association, and clustering using various algorithms on diverse datasets to extract insights.
+---
+## Certifications
 
-### **[Cats vs Dogs Image Classifier GUI](https://github.com/NelluriLokesh/Cats_vs_Dogs)**
-**Technologies**: Python, Tkinter, Keras, Scikit-learn  
-- Developed a GUI application that classifies images as cats or dogs using a pre-trained convolutional neural network.
+- **AWS:** [AWS Cloud Practitioner](https://www.credly.com/badges/13399285-944c-4c91-b618-8430fd9b08b4/public_url)  
+- **Salesforce:** [Salesforce AI Associate Certified](https://drive.google.com/file/d/1GSYM6PoW_yYvHQqnBmneyzIIdJeKeHMM/view)  
+- **NPTEL:** [Machine Learning, ML Certificate](https://drive.google.com/file/d/1DVCcLRfir3B6Tpu-2kUeUOlVn6TD2tsP/view?usp=sharing)  
+- **NPTEL:** [Data Science for Engineers Certificate](https://drive.google.com/file/d/1DZ3KR7ES4fdclHJScdlTF4EnyXRQmuY4/view?usp=sharing)  
 
-## 🏅 Achievements & Certifications:
-
-- **198 Badges and 39 Trophies in Microsoft Learn**: Showcasing dedication to continuous learning and skill development.
-- **49 Badges, 71,925 Points, and 5 Trails in Salesforce**: Reflecting advanced skills and commitment.
-- **5 stars in Python and SQL on HackerRank**.
-- **Completed the Become a Data Analyst course from Linked Learning**.
-- **Active member of the Data Analytics Club** in my college.
-- **International Level Student Workshop - 2k24 on Data Science using Python**.
-
-### **[Verified Achievements](https://www.credly.com/users/lokesh-nelluri)**:
-- AWS Cloud Practitioner Essentials by EDX
-- AWS Certified Cloud Practitioner issued by Amazon Web Services
-- Salesforce AI Associate Certified
-- Salesforce Developer Virtual Internship
-- Machine Learning, ML Certificate from NPTEL
-- Data Science for Engineers Certificate from NPTEL
-- R(Regex), SQL, Power BI Essential Training from Linked Learning
 
 ---
 
+## Achievements
+
+- **Microsoft Learn:**  
+  - Earned 198 Badges and 39 Trophies in Microsoft Learn, showcasing dedication to continuous learning and skill development.  
+- **Credly Achievements:**  
+  - Earned industry-recognized certifications on Credly, highlighting expertise in cloud computing and data analysis.  
+  - [View Profile](https://www.credly.com/badges/13399285-944c-4c91-b618-8430fd9b08b4/public_url)  
