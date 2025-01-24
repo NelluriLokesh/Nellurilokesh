@@ -28,10 +28,10 @@ Why do programmers prefer dark mode? **Because light attracts bugs.**
 
 # 🚀 Projects
 
----
 
 
-## **Serverless Web Application and AWS Infrastructure Optimization**
+## **[Serverless Web Application and AWS Infrastructure Optimization](https://github.com/NelluriLokesh/Serverless-Web-Application-and-AWS-Infrastructure-Optimization/tree/main)**
+
 - **Technologies:** AWS (EC2, S3, IAM, CloudWatch), Lambda, API Gateway, DynamoDB  
 - **Description:** Optimized infrastructure with EC2 and IAM for enhanced efficiency and security, while using CloudWatch for performance monitoring and actionable insights. Developed a serverless web application leveraging AWS Lambda, API Gateway, S3, and DynamoDB to improve scalability and reduce costs.
 - **Features:**
@@ -41,6 +41,7 @@ Why do programmers prefer dark mode? **Because light attracts bugs.**
   - Optimized the use of EC2 instances and IAM for a secure and efficient infrastructure.
 - **Challenges Solved:** Created an infrastructure that scales automatically while reducing operational costs and enhancing security.
 
+
 ### Technology Stack:
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/-AWS%20Lambda-darkgreen?style=for-the-badge&logo=aws&logoColor=white)
@@ -49,7 +50,7 @@ Why do programmers prefer dark mode? **Because light attracts bugs.**
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-darkblue?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
-## **SpeakSmart: Voice-Activated Personal Assistant**
+## **[SpeakSmart: Voice-Activated Personal Assistant](https://github.com/NelluriLokesh/Voice-Activated-Personal-Assistant)**  
 - **Technologies:** Python, PyAudio, SpeechRecognition, Pyttsx3  
 - **Description:** Developed a voice-activated personal assistant capable of executing tasks such as web browsing, setting reminders, fetching weather updates, and sending emails. The assistant interacts seamlessly with users using speech recognition and text-to-speech conversion.
 - **Features:**
@@ -66,7 +67,7 @@ Why do programmers prefer dark mode? **Because light attracts bugs.**
 
 ---
 
-## **Amazon Product and Sales Data Analysis Dashboard**
+## **[Amazon Product and Sales Data Analysis Dashboard](https://app.powerbi.com/groups/me/reports/1812e931-18bf-4a31-8ed9-9a459f22bf6e/eaea5ab5d60a60c28d07?ctid=377383c2-3be0-4e01-b2c8-8526d5e58adb&experience=power-bi)**
 - **Technologies:** Power BI, MySQL  
 - **Description:** Created an interactive dashboard analyzing Amazon product and sales data, enabling stakeholders to identify key trends, top-selling products, and revenue growth opportunities.  
 - **Features:**
@@ -81,7 +82,7 @@ Why do programmers prefer dark mode? **Because light attracts bugs.**
 
 ---
 
-## **Uncovering Insights Across Different Datasets**
+## **[Uncovering Insights Across Different Datasets](https://github.com/NelluriLokesh/Data_Analysis/tree/main/Data%20Analysis)**
 - **Technologies:** Python, numpy, pandas, re  
 - **Visualization:** seaborn, matplotlib  
 - **Description:** Explored diverse datasets to uncover actionable insights, detect anomalies, and visualize patterns effectively.
@@ -98,7 +99,7 @@ Why do programmers prefer dark mode? **Because light attracts bugs.**
 
 ---
 
-## **Integrated Data Analysis with Multitask Machine Learning**
+## **[Integrated Data Analysis with Multitask Machine Learning](https://github.com/NelluriLokesh/Machine_Learning_alg)**
 - **Technologies:** Python, numpy, pandas, scikit-learn  
 - **Description:** Implemented multiple machine learning tasks including regression, classification, association, and clustering on various datasets.  
 - **Features:**
@@ -115,7 +116,7 @@ Why do programmers prefer dark mode? **Because light attracts bugs.**
 
 ---
 
-## **Cats vs Dogs Image Classifier GUI**
+## **[Cats vs Dogs Image Classifier GUI](https://github.com/NelluriLokesh/Cats_vs_Dogs)**
 - **Technologies:** Python, Tkinter, Keras, Scikit-learn  
 - **Description:** Developed a user-friendly GUI application that allows users to classify images as cats or dogs using a trained convolutional neural network (CNN).  
 - **Features:**
