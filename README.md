@@ -104,21 +104,117 @@ Why do programmers prefer dark mode? **Because light attracts bugs.**
 ---
 
 
-## 🌱 Projects:
 
-### **[Serverless Web Application and AWS Infrastructure Optimization](https://docs.google.com/presentation/d/1YergW0RjbYvpq5k3pjV3cq44kB0kmIuD/edit?usp=sharing&ouid=113444432130316028569&rtpof=true&sd=true)**
-- **Technologies**: AWS (EC2, S3, IAM, CloudWatch), Lambda, API Gateway, DynamoDB  
-- Built a serverless web application and optimized cloud infrastructure for security and performance.
-
-### **[SpeakSmart: Voice-Activated Personal Assistant](https://github.com/NelluriLokesh/Voice-Activated-Personal-Assistant)**
-- **Technologies**: Python, PyAudio, Pyttsx3  
-- Created a Python-based voice assistant capable of tasks like browsing, time management, and weather updates.
-
-### **[Amazon Product and Sales Data Analysis Dashboard](https://app.powerbi.com/groups/me/reports/1812e931-18bf-4a31-8ed9-9a459f22bf6e/eaea5ab5d60a60c28d07?ctid=377383c2-3be0-4e01-b2c8-8526d5e58adb&experience=power-bi)**
-- **Technologies**: Power BI, MySQL  
-- Designed an interactive dashboard to uncover business insights from 160K records.
+# 🚀 Projects
 
 ---
+
+
+## **Serverless Web Application and AWS Infrastructure Optimization**
+- **Technologies:** AWS (EC2, S3, IAM, CloudWatch), Lambda, API Gateway, DynamoDB  
+- **Description:** Optimized infrastructure with EC2 and IAM for enhanced efficiency and security, while using CloudWatch for performance monitoring and actionable insights. Developed a serverless web application leveraging AWS Lambda, API Gateway, S3, and DynamoDB to improve scalability and reduce costs.
+- **Features:**
+  - Used AWS Lambda for scalable, event-driven applications.
+  - Leveraged API Gateway for seamless interaction between client and server.
+  - Utilized DynamoDB for fast and reliable NoSQL database management.
+  - Optimized the use of EC2 instances and IAM for a secure and efficient infrastructure.
+- **Challenges Solved:** Created an infrastructure that scales automatically while reducing operational costs and enhancing security.
+
+### Technology Stack:
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/-AWS%20Lambda-darkgreen?style=for-the-badge&logo=aws&logoColor=white)
+![API Gateway](https://img.shields.io/badge/-API%20Gateway-blue?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-lightblue?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-darkblue?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+## **SpeakSmart: Voice-Activated Personal Assistant**
+- **Technologies:** Python, PyAudio, SpeechRecognition, Pyttsx3  
+- **Description:** Developed a voice-activated personal assistant capable of executing tasks such as web browsing, setting reminders, fetching weather updates, and sending emails. The assistant interacts seamlessly with users using speech recognition and text-to-speech conversion.
+- **Features:**
+  - Voice-controlled web browsing.
+  - Email automation through voice commands.
+  - Time and task management.
+- **Challenges Solved:** Overcame challenges with accurate speech recognition and natural language processing to ensure user commands were executed reliably.
+
+### Technology Stack:
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![PyAudio](https://img.shields.io/badge/-PyAudio-red?style=for-the-badge)
+![SpeechRecognition](https://img.shields.io/badge/-SpeechRecognition-orange?style=for-the-badge)
+![Pyttsx3](https://img.shields.io/badge/-Pyttsx3-green?style=for-the-badge)
+
+---
+
+## **Amazon Product and Sales Data Analysis Dashboard**
+- **Technologies:** Power BI, MySQL  
+- **Description:** Created an interactive dashboard analyzing Amazon product and sales data, enabling stakeholders to identify key trends, top-selling products, and revenue growth opportunities.  
+- **Features:**
+  - Interactive visualizations showing revenue by category, monthly trends, and regional sales.
+  - Insights derived from 160K sales records.
+  - Custom filters for exploring specific business metrics.
+- **Challenges Solved:** Integrated Power BI with MySQL to manage large datasets and provided real-time performance insights.  
+
+### Technology Stack:
+![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## **Uncovering Insights Across Different Datasets**
+- **Technologies:** Python, numpy, pandas, re  
+- **Visualization:** seaborn, matplotlib  
+- **Description:** Explored diverse datasets to uncover actionable insights, detect anomalies, and visualize patterns effectively.
+- **Features:**
+  - Data wrangling and cleaning for large and messy datasets.
+  - Trend and correlation analysis using advanced visualization techniques.
+- **Challenges Solved:** Improved data quality and extracted patterns in unstructured datasets to present them effectively.
+
+### Technology Stack:
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-purple?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-teal?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-orange?style=for-the-badge)
+
+---
+
+## **Integrated Data Analysis with Multitask Machine Learning**
+- **Technologies:** Python, numpy, pandas, scikit-learn  
+- **Description:** Implemented multiple machine learning tasks including regression, classification, association, and clustering on various datasets.  
+- **Features:**
+  - Predicted outcomes using regression models.
+  - Classified data into categories using decision trees and SVM.
+  - Found associations and clusters for deeper insights into data relationships.
+- **Challenges Solved:** Tuned algorithms to handle diverse datasets and improve predictive accuracy.
+
+### Technology Stack:
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-orange?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-purple?style=for-the-badge&logo=pandas&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## **Cats vs Dogs Image Classifier GUI**
+- **Technologies:** Python, Tkinter, Keras, Scikit-learn  
+- **Description:** Developed a user-friendly GUI application that allows users to classify images as cats or dogs using a trained convolutional neural network (CNN).  
+- **Features:**
+  - Simple drag-and-drop interface for image uploads.
+  - Real-time predictions powered by deep learning.
+  - Visual feedback with prediction confidence scores.
+- **Challenges Solved:** Optimized CNN for faster predictions and integrated the backend with a Tkinter GUI for non-technical users.
+
+### Technology Stack:
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-red?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-orange?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Tkinter](https://img.shields.io/badge/-Tkinter-lightblue?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
+
+
+---
+
 ## Certifications
 
 - **AWS:** [AWS Cloud Practitioner](https://www.credly.com/badges/13399285-944c-4c91-b618-8430fd9b08b4/public_url)  
