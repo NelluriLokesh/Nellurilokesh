@@ -6,7 +6,7 @@ I am a passionate Software Engineer and Data Scientist, exploring back-end devel
 ## 📫 Contact Information:
 - Email: anjilokesh.nelluri@gmail.com
 - Portfolio: [My Portfolio](https://nellurilokesh.github.io/My_Portfolio/)
-- Resume: [Download Resume](https://drive.google.com/file/d/1WJzy3jNlEIhpaMckzcyyu4_bSkSI1P_R/view?usp=sharing)
+- Resume: [Download Resume](https://drive.google.com/file/d/1GD28QpNy9EJax_14L94HVRgqcQCBJutZ/view?usp=sharing)
 
 ## ⚡ Fun Fact:
 Why do programmers prefer dark mode? **Because light attracts bugs.**
