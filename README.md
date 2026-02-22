@@ -1,4 +1,4 @@
-# Nelluri Lokesh - A Good Gentleman
+# Nelluri Lokesh
 
 ## 👨‍💻 About Me:
 I am a passionate Data Scientist, Cloud Engineer and Software Engineer, exploring back-end development, cloud infrastructure, data analysis, and machine learning. I aim to solve real-world challenges through code and data-driven insights.
